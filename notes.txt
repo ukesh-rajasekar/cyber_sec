@@ -1,1 +1,4 @@
-file:///flag_c24ccdfc008851700f2249ad5a9ca9f0
+<event>
+    <item1>item1</item1>
+    <item2>item2</item2>
+</event>
