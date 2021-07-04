@@ -1,1 +1,237 @@
-file:///flag_c24ccdfc008851700f2249ad5a9ca9f0
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE foo [ 
+<!ENTITY dtd SYSTEM "file:///flag_c24ccdfc008851700f2249ad5a9ca9f0">]>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>QuoccaBlog</title>
+	<atom:link href="https://blog.quoccabank.com/?feed=rss2" rel="self" type="application/rss+xml" />
+	<link>https://blog.quoccabank.com</link>
+	<description>The blogging home of QuoccaBank</description>
+	<lastBuildDate>Mon, 08 Jun 2020 12:43:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+	<item>
+<title>&dtd;</title>
+		<link>&c;</link>
+					<comments>https://blog.quoccabank.com/?p=42#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2020 12:31:03 +0000</pubDate>
+				<category><![CDATA[Humans of QuoccaBank]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://blog.quoccabank.com/?p=42</guid>
+
+					<description><![CDATA[Scott&#8217;s favourite animal are the sharks.]]></description>
+										<content:encoded><![CDATA[
+<p>Scott&#8217;s favourite animal are the sharks.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://blog.quoccabank.com/?feed=rss2&#038;p=42</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Quile</title>
+		<link>https://blog.quoccabank.com/?p=39</link>
+					<comments>https://blog.quoccabank.com/?p=39#respond</comments>
+		
+		<dc:creator><![CDATA[sarah]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2020 12:30:03 +0000</pubDate>
+				<category><![CDATA[Humans of QuoccaBank]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://blog.quoccabank.com/?p=39</guid>
+
+					<description><![CDATA[Quile (pronounced &#8216;Kylie&#8217;) got her start by selling bitcoin.]]></description>
+										<content:encoded><![CDATA[
+<p>Quile (pronounced &#8216;Kylie&#8217;) got her start by selling bitcoin.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://blog.quoccabank.com/?feed=rss2&#038;p=39</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sofie</title>
+		<link>https://blog.quoccabank.com/?p=36</link>
+					<comments>https://blog.quoccabank.com/?p=36#respond</comments>
+		
+		<dc:creator><![CDATA[sarah]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2020 12:28:33 +0000</pubDate>
+				<category><![CDATA[Humans of QuoccaBank]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://blog.quoccabank.com/?p=36</guid>
+
+					<description><![CDATA[Sofie dreams of one day starting her own floristry business]]></description>
+										<content:encoded><![CDATA[
+<p>Sofie dreams of one day starting her own floristry business </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://blog.quoccabank.com/?feed=rss2&#038;p=36</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bradlee</title>
+		<link>https://blog.quoccabank.com/?p=33</link>
+					<comments>https://blog.quoccabank.com/?p=33#respond</comments>
+		
+		<dc:creator><![CDATA[sarah]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2020 12:27:27 +0000</pubDate>
+				<category><![CDATA[Humans of QuoccaBank]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://blog.quoccabank.com/?p=33</guid>
+
+					<description><![CDATA[Bradlee is training for the olympics. Good luck Brad!]]></description>
+										<content:encoded><![CDATA[
+<p>Bradlee is training for the olympics. Good luck Brad!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://blog.quoccabank.com/?feed=rss2&#038;p=33</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lara</title>
+		<link>https://blog.quoccabank.com/?p=30</link>
+					<comments>https://blog.quoccabank.com/?p=30#respond</comments>
+		
+		<dc:creator><![CDATA[sarah]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2020 12:26:39 +0000</pubDate>
+				<category><![CDATA[Humans of QuoccaBank]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://blog.quoccabank.com/?p=30</guid>
+
+					<description><![CDATA[Lara likes to stay active with crossfit and yoga.]]></description>
+										<content:encoded><![CDATA[
+<p>Lara likes to stay active with crossfit and yoga. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://blog.quoccabank.com/?feed=rss2&#038;p=30</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Kim</title>
+		<link>https://blog.quoccabank.com/?p=27</link>
+					<comments>https://blog.quoccabank.com/?p=27#respond</comments>
+		
+		<dc:creator><![CDATA[sarah]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2020 12:26:06 +0000</pubDate>
+				<category><![CDATA[Humans of QuoccaBank]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://blog.quoccabank.com/?p=27</guid>
+
+					<description><![CDATA[Kim likes to stay on top of her expenses.]]></description>
+										<content:encoded><![CDATA[
+<p>Kim likes to stay on top of her expenses. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://blog.quoccabank.com/?feed=rss2&#038;p=27</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Adam</title>
+		<link>https://blog.quoccabank.com/?p=24</link>
+					<comments>https://blog.quoccabank.com/?p=24#respond</comments>
+		
+		<dc:creator><![CDATA[sarah]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2020 12:25:40 +0000</pubDate>
+				<category><![CDATA[Humans of QuoccaBank]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://blog.quoccabank.com/?p=24</guid>
+
+					<description><![CDATA[Adam is one of our customers based in the salt industry.]]></description>
+										<content:encoded><![CDATA[
+<p>Adam is one of our customers based in the salt industry.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://blog.quoccabank.com/?feed=rss2&#038;p=24</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Martha</title>
+		<link>https://blog.quoccabank.com/?p=21</link>
+					<comments>https://blog.quoccabank.com/?p=21#respond</comments>
+		
+		<dc:creator><![CDATA[sarah]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2020 12:25:01 +0000</pubDate>
+				<category><![CDATA[Humans of QuoccaBank]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://blog.quoccabank.com/?p=21</guid>
+
+					<description><![CDATA[Martha the Quokka loves baking.]]></description>
+										<content:encoded><![CDATA[
+<p>Martha the Quokka loves baking. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://blog.quoccabank.com/?feed=rss2&#038;p=21</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sarah</title>
+		<link>https://blog.quoccabank.com/?p=18</link>
+					<comments>https://blog.quoccabank.com/?p=18#respond</comments>
+		
+		<dc:creator><![CDATA[sarah]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2020 12:24:22 +0000</pubDate>
+				<category><![CDATA[Humans of QuoccaBank]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://blog.quoccabank.com/?p=18</guid>
+
+					<description><![CDATA[Sarah is a small business owner in QA. She helps other Quokka&#8217;s solve their leaf related issues.]]></description>
+										<content:encoded><![CDATA[
+<p>Sarah is a small business owner in QA. She helps other Quokka&#8217;s solve their leaf related issues. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://blog.quoccabank.com/?feed=rss2&#038;p=18</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Jack</title>
+		<link>https://blog.quoccabank.com/?p=14</link>
+					<comments>https://blog.quoccabank.com/?p=14#respond</comments>
+		
+		<dc:creator><![CDATA[sarah]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2020 12:22:45 +0000</pubDate>
+				<category><![CDATA[Humans of QuoccaBank]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://blog.quoccabank.com/?p=14</guid>
+
+					<description><![CDATA[Jack the quokka came to us to refinance his homeloan.]]></description>
+										<content:encoded><![CDATA[
+<p>Jack the quokka came to us to refinance his homeloan. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://blog.quoccabank.com/?feed=rss2&#038;p=14</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
